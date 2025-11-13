@@ -5,4 +5,4 @@
 - 이벤트 적용🧨
 - 깃허브 페이지
 
-[배포](주소)
+[배포](https://kmj13520-a11y.github.io/BACKGROUND/)
